@@ -5,6 +5,7 @@ public class Main {
         String filepath="src/main/java/exceptionhandling/checkedexception/samplej";
         Checked ch= new Checked();
         ch.read(filepath);
+        
 
     }
 }
