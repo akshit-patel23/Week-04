@@ -10,15 +10,4 @@ public class ValidAge {
         System.out.println("Assess granted!");
 
     }
-    //without extending
-    public static void valid(int age){
-        try {
-            if (age < 18) {
-                throw new Exception("Age must be 18 or above");
-            }
-            System.out.println("Access granted!");
-        } catch (Exception e) {
-            System.out.println(e.getMessage());
-        }
-    }
 }
