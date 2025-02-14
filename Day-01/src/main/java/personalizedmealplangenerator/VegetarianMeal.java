@@ -9,7 +9,6 @@ public class VegetarianMeal implements MealPlan{
     @Override
     public void showMeal() {
         System.out.println("Its a VegetarianMeal");
-
     }
 
     @Override

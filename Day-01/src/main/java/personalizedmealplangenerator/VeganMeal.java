@@ -5,6 +5,7 @@ String name;
 VeganMeal(String name){
     this.name=name;
 }
+
 @Override
 public void showMeal(){
     System.out.println("Its a VeganMeal");

@@ -17,6 +17,7 @@ public class Meal <T extends MealPlan> {
 
     public String toString() {
         StringBuilder sb = new StringBuilder();
+
         for (T item : list) {
             sb.append("- ").append(item.getName()).append("\n");  // Uses getName() instead of name
         }

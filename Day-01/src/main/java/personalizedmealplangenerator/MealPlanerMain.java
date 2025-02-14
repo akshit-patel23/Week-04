@@ -14,8 +14,10 @@ veganMealList.addItem(veganMeal1);
         veganMealList.addItem(veganMeal3);
         vegetarianMealList.addItem(vegetarianMeal1);
         vegetarianMealList.addItem(vegetarianMeal2);
+
         System.out.println("List of vegan items");
         System.out.println(veganMealList);
+
         System.out.println("List of vegetarian items");
 
         System.out.println(vegetarianMealList);
