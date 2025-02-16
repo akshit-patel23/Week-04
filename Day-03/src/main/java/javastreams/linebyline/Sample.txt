@@ -1,0 +1,11 @@
+[INFO] 2025-02-13 10:15:23 - Server started successfully.
+[DEBUG] 2025-02-13 10:16:10 - Checking database connection...
+[ERROR] 2025-02-13 10:16:45 - Database connection failed: Timeout error
+[INFO] 2025-02-13 10:17:30 - User logged in: user123
+[ERROR] 2025-02-13 10:18:15 - File not found: config.yaml
+[WARNING] 2025-02-13 10:19:00 - High memory usage detected.
+[DEBUG] 2025-02-13 10:20:10 - Cache cleared successfully.
+[ERROR] 2025-02-13 10:21:45 - Unauthorized access attempt detected.
+[INFO] 2025-02-13 10:22:30 - User logged out: user123
+[ERROR] 2025-02-13 10:23:10 - Unable to reach API: Connection reset
+[INFO] 2025-02-13 10:24:05 - Server shutting down...
