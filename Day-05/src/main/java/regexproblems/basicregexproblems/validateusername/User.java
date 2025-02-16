@@ -1,4 +1,4 @@
-package basicregexproblems.validateusername;
+package regexproblems.basicregexproblems.validateusername;
 import java.util.regex.*;
 public class User {
     public boolean validate(String username){
